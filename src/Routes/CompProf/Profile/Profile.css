@@ -1,0 +1,115 @@
+.profile .upload-photo {
+  cursor: pointer;
+  border: 0.5px solid;
+  padding: 0;
+  background-color: var(--dark-green);
+  position: absolute;
+  width: 136.03px;
+  top: calc(50% - 33.35px);
+  left: 800.49px;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 50px;
+  overflow: hidden;
+  color: white;
+}
+
+.profile .upload-photo:hover{
+  background-color: white;
+  color: black;
+}
+.profile .delete {
+  cursor: pointer;
+  border: 1px solid #384d6c;
+  padding: 0;
+  background-color: #fff;
+  position: absolute;
+  top: 141px;
+  left: 800.49px;
+  border-radius: 8px;
+  box-sizing: border-box;
+  width: 136.03px;
+  height: 50px;
+  overflow: hidden;
+}
+
+.profile .delete:hover{
+  background-color: var(--dark-green);
+  color: white;
+}
+.profile .text {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 24px;
+  line-height: 20px;
+  display: flex;
+  font-family: Lato;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 232.98px;
+}
+.profile .line-icon {
+  position: absolute;
+  top: 36.24px;
+  left: 3.21px;
+  max-height: 100%;
+  width: 229.77px;
+  object-fit: cover;
+}
+.profile .photo-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  transform: scale(1.069);
+}
+.profile .wrapper-photo {
+  position: absolute;
+  top: 63.7px;
+  left: 60.04px;
+  width: 145px;
+  height: 145px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile .c-name {
+  position: absolute;
+  top: 83.23px;
+  left: 264.99px;
+  display: inline-block;
+  width: 255.84px;
+  height: 33.34px;
+}
+.profile .phone {
+  position: absolute;
+  top: 127.68px;
+  left: 264.99px;
+  display: inline-block;
+  width: 254.22px;
+  height: 33.34px;
+}
+.profile .time {
+  position: absolute;
+  top: 172.13px;
+  left: 264.99px;
+  font-size: 16px;
+  color: #6b7280;
+  display: inline-block;
+  width: 552.16px;
+  height: 27.78px;
+}
+.profile {
+  position: relative;
+  width: 100%;
+  height: 208.7px;
+  text-align: left;
+  font-size: 20px;
+  color: #384d6c;
+  font-family: Montserrat;
+}
+

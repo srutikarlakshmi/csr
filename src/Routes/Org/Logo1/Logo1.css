@@ -1,0 +1,70 @@
+.logo1 .contact {
+  position: absolute;
+  top: 47px;
+  left: 1060px;
+  line-height: 150%;
+}
+.logo1 .about {
+  position: absolute;
+  top: 47px;
+  left: 732px;
+  line-height: 150%;
+}
+.logo1 .events {
+  position: absolute;
+  top: 47px;
+  left: 906px;
+  line-height: 150%;
+}
+.logo1 .sign-up {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 30px);
+  line-height: 150%;
+}
+.logo1 .button {
+  position: absolute;
+  top: 39px;
+  left: 1312px;
+  border-radius: 4px;
+  background-color: #f3816d;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  color: #fff;
+}
+.logo1 .prof {
+  position: absolute;
+  height: 29.15%;
+  width: 2.52%;
+  bottom: 41.54%;
+  left: 80.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+
+}
+.logo1 .head {
+  position: absolute;
+  top: 37px;
+  left: 82px;
+  font-size: 40px;
+  line-height: 150%;
+  font-family: 'Jim Nightshade';
+  color: #000;
+  display: inline-block;
+  width: 178px;
+  height: 44px;
+}
+.logo1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 130px;
+  text-align: left;
+  font-size: 16px;
+  color: #171a1f;
+  font-family: Inter;
+}
+

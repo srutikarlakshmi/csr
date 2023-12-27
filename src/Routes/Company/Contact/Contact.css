@@ -1,0 +1,235 @@
+.contact .rect {
+  position: absolute;
+  top: 80.94px;
+  left: 70px;
+  border-radius: 25px;
+  background-color: #e5f5ff;
+  width: 1315px;
+  height: 706px;
+}
+.contact .submit1 {
+  position: absolute;
+  top: 17.71px;
+  left: 30.76px;
+  line-height: 150%;
+  color: white;
+  text-align: center;
+}
+.contact .submit {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: var(--dark-orange);
+  position: absolute;
+  top: 667.36px;
+  left: 772.42px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  width: 98.35px;
+  height: 55.71px;
+}
+
+.submit:hover{
+  background-color: var(--dark-green);
+}
+.contact .checkbox {
+  margin: 0;
+  position: absolute;
+  top: 609.64px;
+  left: 772px;
+  border-radius: 2px;
+  background-color: #00bdd6;
+  width: 12px;
+  height: 12px;
+}
+.contact .agree {
+  position: absolute;
+  top: 605.64px;
+  left: 788px;
+  line-height: 150%;
+}
+.contact .input {
+  border: none;
+  outline: none;
+  font-size: 13px;
+  background-color: transparent;
+  position: absolute;
+  top: 17.06px;
+  left: 15.8px;
+  line-height: 150%;
+  color: #9095a0;
+  text-align: left;
+  display: inline-block;
+  width: 545px;
+  height: 165px;
+}
+.contact .big-box {
+  position: absolute;
+  top: 392.94px;
+  left: 772.2px;
+  border-radius: 2px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  border: 1px solid #9095a0;
+  box-sizing: border-box;
+  width: 575.8px;
+  height: 193.42px;
+}
+.contact .message {
+  position: absolute;
+  top: 362.94px;
+  left: 772.2px;
+  font-size: 16px;
+  line-height: 150%;
+  display: inline-block;
+  width: 85.23px;
+  height: 23px;
+}
+.contact .email {
+  position: absolute;
+  top: 255.94px;
+  left: 775px;
+  font-size: 16px;
+  line-height: 150%;
+  display: inline-block;
+  width: 52px;
+  height: 23px;
+}
+.contact .input1 {
+  border: none;
+  outline: none;
+  font-size: 13px;
+  background-color: transparent;
+  position: absolute;
+  top: 6.95px;
+  left: 16px;
+  line-height: 150%;
+  color: #9095a0;
+  text-align: left;
+}
+.contact .box {
+  position: absolute;
+  top: 178.94px;
+  left: 775.07px;
+  border-radius: 2px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  border: 1px solid #9095a0;
+  box-sizing: border-box;
+  width: 331.56px;
+  height: 37px;
+}
+.contact .box1 {
+  position: absolute;
+  top: 285.94px;
+  left: 774px;
+  border-radius: 2px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  border: 1px solid #9095a0;
+  box-sizing: border-box;
+  width: 331.56px;
+  height: 37px;
+}
+.contact .name {
+  position: absolute;
+  top: 148.94px;
+  left: 775.01px;
+  font-size: 16px;
+  line-height: 150%;
+  display: inline-block;
+  width: 46.83px;
+  height: 23px;
+}
+.contact .address {
+  position: absolute;
+  top: 430.71px;
+  left: 165.11px;
+  line-height: 150%;
+  display: inline-block;
+  width: 300px;
+  height: 23.13px;
+}
+.contact .loc-icon {
+  position: absolute;
+  top: 425.5px;
+  left: 125.95px;
+  border-radius: 12px;
+  width: 22.92px;
+  height: 25.23px;
+  object-fit: cover;
+}
+.contact .number {
+  position: absolute;
+  top: 388.66px;
+  left: 165.11px;
+  line-height: 150%;
+  display: inline-block;
+  width: 138.41px;
+  height: 23.13px;
+}
+.contact .call-icon {
+  position: absolute;
+  top: 383.46px;
+  left: 125px;
+  border-radius: 4px;
+  width: 26.74px;
+  height: 29.43px;
+  object-fit: cover;
+}
+.contact .mail {
+  position: absolute;
+  top: 347.14px;
+  left: 164.15px;
+  line-height: 150%;
+  display: inline-block;
+  width: 94.54px;
+  height: 23.13px;
+}
+.contact .msg-icon {
+  position: absolute;
+  top: 343.51px;
+  left: 125.95px;
+  border-radius: 4px;
+  width: 22.92px;
+  height: 23.13px;
+  object-fit: cover;
+}
+.contact .head2 {
+  position: absolute;
+  top: 244.94px;
+  left: 125px;
+  font-size: 25px;
+  line-height: 150%;
+  display: inline-block;
+  width: 578.82px;
+  height: 69px;
+}
+.contact .head {
+  position: absolute;
+  top: 171.94px;
+  left: 126.87px;
+  font-size: 39px;
+  line-height: 150%;
+  display: inline-block;
+  width: 272.15px;
+  height: 67.28px;
+}
+.contact .sm-head {
+  position: absolute;
+  top: 147.94px;
+  left: 126.91px;
+  line-height: 150%;
+  display: inline-block;
+  width: 55.38px;
+  height: 23.13px;
+}
+.contact {
+  position: relative;
+  width: 100%;
+  height: 877px;
+  overflow: hidden;
+  text-align: left;
+  left: 10px;
+}
+

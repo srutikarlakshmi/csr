@@ -1,0 +1,96 @@
+.card6 {
+  position: relative;
+  width: 100%;
+  height: 1189px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 61px;
+  color: #171a1f;
+  font-family: Inter;
+  bottom: 80px;
+  }
+
+.card6 .box {
+  position: absolute;
+  top: 146px;
+  left: 63.44px;
+  background-color: #E7D4FE;
+  width: 1400px;
+  height: 953px;
+  opacity: 0.4;
+}
+
+.card6 .circle {
+  position: absolute;
+  top: 32px;
+  left: -45.25px;
+  border-radius: 50%;
+  background-color: #DFF7FD;
+  width: 568.13px;
+  height: 464px;
+  mix-blend-mode: color-burn;
+}
+
+.card6 .head {
+  position: absolute;
+  top: 264px;
+  left: 215.6px;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 475.26px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+}
+
+.card6 .para {
+  position: absolute;
+  top: 369px;
+  left: 215.6px;
+  font-size: 25px;
+  line-height: 150%;
+  display: inline-block;
+  width: 491.06px;
+}
+
+.card6 .image1-icon {
+  position: absolute;
+  top: 159px;
+  left: 904.15px;
+  border-radius: 15px;
+  width: 423.13px;
+  height: 428px;
+  object-fit: cover;
+}
+
+.card6 .image2-icon {
+  position: absolute;
+  top: 659px;
+  left: 98.89px;
+  border-radius: 15px;
+  width: 502.17px;
+  height: 428px;
+  object-fit: cover;
+}
+
+.card6 .image3-icon {
+  position: absolute;
+  top: 505px;
+  left: 465.46px;
+  border-radius: 15px;
+  width: 591.1px;
+  height: 435px;
+  object-fit: cover;
+}
+
+.card6 .image4-icon {
+  position: absolute;
+  top: 665.45px;
+  left: 997.15px;
+  width: 408px;
+  height: 407px;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+

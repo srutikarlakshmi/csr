@@ -1,0 +1,172 @@
+.login1 .cirlce1 {
+  position: absolute;
+  top: -651.14px;
+  left: 1635.82px;
+  border-radius: 50%;
+  background: linear-gradient(257.49deg, rgba(255, 180, 166, 0.5), rgba(255, 255, 255, 0.5));
+  width: 1745.41px;
+  height: 2836.92px;
+  transform:  rotate(89.57deg);
+  transform-origin: 0 0;
+}
+.login1 .dont-have-an {
+  font-weight: 300;
+}
+.login1 .span {
+  color: #103c78;
+}
+.login1 .para1 {
+  position: absolute;
+  top: 465px;
+  left: calc(50% - 115px);
+  color: #000;
+}
+.login1 .sign-up {
+  text-decoration: none;
+  position: absolute;
+  top: 465px;
+  left: 270px;
+  color: #103c78;
+}
+.login1 .org-login-child {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: #32859a;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 5px;
+  box-shadow: 0px 4px 7px rgba(69, 146, 218, 0.25);
+  width: 250px;
+  height: 35px;
+}
+.login1 .login-org {
+  position: absolute;
+  top: 10px;
+  left: 62px;
+  font-size: 16px;
+  display: inline-block;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  width: 124px;
+}
+.login1 .org-login {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 402px;
+  left: 83px;
+  width: 250px;
+  height: 35px;
+}
+.login1 .login-comp {
+  position: absolute;
+  top: 10px;
+  left: 48px;
+  font-size: 16px;
+  display: inline-block;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  width: 152px;
+}
+.login1 .comp-login {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 345px;
+  left: 83px;
+  width: 250px;
+  height: 35px;
+}
+.login1 .password {
+  position: absolute;
+  top: 264px;
+  left: 58px;
+  font-weight: 600;
+}
+.login1 .email {
+  position: absolute;
+  top: 196px;
+  left: 58px;
+  font-weight: 600;
+}
+.login1 .sub-head {
+  position: absolute;
+  top: 135px;
+  left: calc(50% - 35px);
+  font-size: 26px;
+  font-weight: 500;
+}
+.login1 .head {
+  position: absolute;
+  top: 62px;
+  left: calc(50% - 119px);
+  font-size: 52px;
+  line-height: 150%;
+  font-family: 'Jim Nightshade';
+  color: #000;
+  display: inline-block;
+  width: 237px;
+  height: 44px;
+}
+.login1 .mail {
+  border: none;
+  outline: none;
+  font-family: Inter;
+  font-size: 13px;
+  background-color: rgba(255, 255, 255, 0.56);
+  position: absolute;
+  top: 217px;
+  left: 58px;
+  border-radius: 5px;
+  width: 300px;
+  height: 35px;
+  padding: 8px 8px 7px;
+  box-sizing: border-box;
+  color: #9095a0;
+}
+.login1 .pwd {
+  border: none;
+  outline: none;
+  font-family: Inter;
+  font-size: 13px;
+  background-color: rgba(255, 255, 255, 0.56);
+  position: absolute;
+  top: 285px;
+  left: 58px;
+  border-radius: 5px;
+  width: 300px;
+  height: 35px;
+  padding: 10px 10px 5px;
+  box-sizing: border-box;
+  color: #9095a0;
+}
+.login1 .cirlce1-parent {
+  position: absolute;
+  top: 99px;
+  left: calc(50% - 207px);
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  width: 414px;
+  height: 546px;
+  overflow: hidden;
+}
+.login1 {
+  position: relative;
+  background: linear-gradient(180deg, #ffb4a6, rgba(255, 255, 255, 0));
+  width: 100%;
+  height: 740px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+

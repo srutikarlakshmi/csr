@@ -1,0 +1,48 @@
+:root{
+  --dark-orange: #F3816D;
+  --dark-green: #32859A;
+  --light-orange: #F7D7CF;
+  --light-green: #DDF3F8;
+}
+
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.wrapper{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+a{
+  text-decoration: none;
+}
+
+#sections
+
+section{
+  padding: 90px;
+}
+
+.button {
+  background-color: var(--dark-orange);
+  border-radius: 5px;
+  border: none;
+  color: white;
+  width: 100px;
+  height: 50 px;;
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.6s; 
+}

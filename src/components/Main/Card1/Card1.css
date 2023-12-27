@@ -1,0 +1,58 @@
+.card1 {
+  min-width: 100vh;
+  height: 547px;
+  padding: 30px;
+  margin-top: 90px;
+  position: relative;
+}
+
+.card1 .card1-card{
+  width: 1449px;
+  height: 547px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 26px;
+  line-height: 150%;
+}
+
+.card1 .buttons{
+  position: absolute;
+  width: 1290px;
+  height: 368px;
+  background-color: var(--dark-green);
+  border-radius: 97px;
+  top: 57px;
+  left: -20px;
+}
+
+.card1 .image{
+  position: absolute;
+  top: -30px;
+  width: 575px;
+  height: 551px;
+  left: 150px;
+  border-radius: 25px;
+}
+
+.card1 .head{
+  position: absolute;
+  width: 600px;
+  top: 50px;
+  left: 803px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 59px;
+  letter-spacing: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.card1 .body{
+  position: absolute;
+  width: 582px;
+  top: 270px;
+  left: 803px;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 34px;
+}

@@ -1,0 +1,159 @@
+.card-4 .text-input {
+  position: absolute;
+  top: 0px;
+  left: 54.5px;
+  border-radius: 15px;
+  background-color: #f7d7cf;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  width: 1331px;
+  height: 806px;
+}
+.card-4 .para4 {
+  position: absolute;
+  top: 638.77px;
+  left: 867.5px;
+  font-size: 16px;
+  line-height: 150%;
+  color: #171a1f;
+  display: inline-block;
+  width: 493px;
+  height: 53px;
+}
+
+.card-4 .step4 {
+  position: absolute;
+  top: 598px;
+  left: 867.5px;
+  line-height: 150%;
+}
+.card-4 .para3 {
+  position: absolute;
+  top: 461.73px;
+  left: 867.5px;
+  font-size: 16px;
+  line-height: 150%;
+  color: #171a1f;
+  display: inline-block;
+  width: 493px;
+}
+.card-4 .step3 {
+  position: absolute;
+  top: 422.22px;
+  left: 867.5px;
+  line-height: 150%;
+}
+.card-4 .para2 {
+  position: absolute;
+  top: 285px;
+  left: 867.5px;
+  font-size: 16px;
+  line-height: 150%;
+  color: #171a1f;
+  display: inline-block;
+  width: 493px;
+  height: 49px;
+}
+.card-4 .step2 {
+  position: absolute;
+  top: 244.22px;
+  left: 867.5px;
+  line-height: 150%;
+}
+.card-4 .para1 {
+  position: absolute;
+  top: 103.59px;
+  left: 867.5px;
+  font-size: 16px;
+  line-height: 150%;
+  color: #171a1f;
+  display: inline-block;
+  width: 396px;
+}
+.card-4 .step1 {
+  position: absolute;
+  top: 64.22px;
+  left: 867.5px;
+  line-height: 150%;
+}
+.card-4 .get-started {
+  position: absolute;
+  top: 14.59px;
+  left: 22px;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Inter;
+  text-align: center;
+}
+.card-4 .button {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: var(--dark-orange);
+  position: absolute;
+  top: 306.41px;
+  left: 121.5px;
+  border-radius: 5px;
+  width: 134px;
+  height: 54px;
+}
+
+.card-4 .button:hover {
+  background-color: var(--dark-green);
+}
+.card-4 .find-csr-events {
+  margin: 0;
+}
+.card-4 .head2 {
+  position: absolute;
+  top: 163.18px;
+  left: 125.5px;
+  font-size: 39px;
+  line-height: 150%;
+  color: #171a1f;
+  width: 600px;
+}
+.card-4 .head1 {
+  position: absolute;
+  top: 123px;
+  left: 125.5px;
+  line-height: 150%;
+  color: #171a1f;
+  font-size: 25px;
+}
+.card-4 .b {
+  position: absolute;
+  top: 581px;
+  left: 767.5px;
+  font-size: 49px;
+  line-height: 150%;
+}
+.card-4 .b1 {
+  position: absolute;
+  top: 405px;
+  left: 767.5px;
+  font-size: 49px;
+  line-height: 150%;
+}
+.card-4 .b2 {
+  position: absolute;
+  top: 227px;
+  left: 769.5px;
+  font-size: 49px;
+  line-height: 150%;
+}
+.card-4 .b3 {
+  position: absolute;
+  top: 55px;
+  left: 772.5px;
+  font-size: 49px;
+  line-height: 150%;
+}
+.card-4 {
+  position: relative;
+  width: 100%;
+  height: 882px;
+  overflow: hidden;
+  text-align: left;
+  color: #32859a;
+  font-family: Inter;
+}

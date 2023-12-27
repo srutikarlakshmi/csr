@@ -1,0 +1,49 @@
+.hero1 .rect {
+  position: absolute;
+  top: 120px;
+  left: 0px;
+  background-color: #f7d7cf;
+  width: 100%;
+  height: 242px;
+}
+.hero1 .icon {
+  position: absolute;
+  top: 47px;
+  left: 787px;
+  border-radius: 50px;
+  width: 601px;
+  height: 599px;
+  object-fit: cover;
+}
+.hero1 .para1 {
+  position: absolute;
+  top: 408px;
+  left: 80px;
+  line-height: 150%;
+  display: inline-block;
+  width: 580px;
+  height: 283px;
+}
+.hero1 .head1-h{
+  margin: 0;
+}
+.hero1 .head1 {
+  position: absolute;
+  top: 140px;
+  left: 80px;
+  font-size: 49px;
+  line-height: 150%;
+  display: inline-block;
+  width: 600px;
+}
+.hero1 {
+  position: relative;
+  width: 100%;
+  height: 729px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #171a1f;
+  font-family: Inter;
+}
+

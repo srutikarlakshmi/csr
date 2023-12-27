@@ -1,0 +1,16 @@
+.hero{
+  min-height: 540px;
+  background: url('../../../assets/1.png');
+  max-width: 1405px;
+  height: auto;
+  margin: 0 auto;
+  position: relative;
+  border-radius: 20px;
+}
+
+.hero {
+  @media only screen and (max-width: 768px) {
+    width: 95%;
+    border-radius: 30px;
+  }
+}

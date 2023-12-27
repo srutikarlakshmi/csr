@@ -1,0 +1,109 @@
+.profile1 .delete {
+  cursor: pointer;
+  border: 1px solid #384d6c;
+  padding: 0;
+  background-color: #fff;
+  position: absolute;
+  top: 193px;
+  left: 1208px;
+  border-radius: 8px;
+  box-sizing: border-box;
+  width: 206.01px;
+  height: 69.59px;
+  overflow: hidden;
+  font-size: medium;
+}
+
+.profile1 .delete:hover{
+  background-color: var(--dark-green);
+  color: white;
+}
+
+.profile1 .upload-photo {
+  cursor: pointer;
+  border: 1px solid #384d6c;
+  padding: 0;
+  background-color: #32859a;
+  color: white;
+  position: absolute;
+  width: 206.01px;
+  top: 100px;
+  left: 1208px;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 69.59px;
+  overflow: hidden;
+  font-size: medium;
+}
+
+.profile1 .upload-photo:hover{
+  background-color: white;
+  color: black;
+}
+
+.profile1 .text {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 24px;
+  line-height: 20px;
+  display: flex;
+  font-family: Lato;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 408px;
+  height: 28px;
+}
+.profile1 .line-icon {
+  position: absolute;
+  top: 50px;
+  left: 95px;
+  max-height: 100%;
+  width: 402px;
+  object-fit: cover;
+}
+.profile1 .photo-icon {
+  position: absolute;
+  top: 93px;
+  left: 173px;
+  width: 196px;
+  height: 195px;
+  object-fit: cover;
+}
+.profile1 .o-name {
+  position: absolute;
+  top: 116px;
+  left: 464px;
+  display: inline-block;
+  width: 448px;
+  height: 28px;
+}
+.profile1 .phone {
+  position: absolute;
+  top: 174px;
+  left: 464px;
+  display: inline-block;
+  width: 445px;
+  height: 46px;
+}
+.profile1 .time {
+  position: absolute;
+  top: 226px;
+  left: 464px;
+  font-size: 16px;
+  color: #6b7280;
+  display: inline-block;
+  width: 967px;
+  height: 38px;
+}
+.profile1 {
+  position: relative;
+  width: 100%;
+  height: 288px;
+  text-align: left;
+  font-size: 20px;
+  color: #384d6c;
+  font-family: Montserrat;
+}
+

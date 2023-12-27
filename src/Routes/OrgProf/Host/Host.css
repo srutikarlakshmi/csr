@@ -1,0 +1,167 @@
+.host .host1 {
+  cursor: pointer;
+  border: 1px solid #384d6c;
+  padding: 0;
+  background-color: #32859a;
+  position: absolute;
+  width: 37.22%;
+  top: calc(50% + 107.5px);
+  right: 32.51%;
+  left: 30.27%;
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 50px;
+  overflow: hidden;
+}
+
+.host .desc-input {
+  position: absolute;
+  top: 0px;
+  left: 38px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #9095a0;
+  box-sizing: border-box;
+  width: 260px;
+  height: 27px;
+  mix-blend-mode: soft-light;
+}
+
+.host .sort-icon {
+  position: absolute;
+  height: 44.44%;
+  width: 6.04%;
+  top: 33.33%;
+  right: 93.96%;
+  bottom: 22.22%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.host .desc {
+  position: absolute;
+  top: 263px;
+  left: 29px;
+  width: 298px;
+  height: 27px;
+}
+
+.host .loc-input {
+  position: absolute;
+  top: 0px;
+  left: 39px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #9095a0;
+  box-sizing: border-box;
+  width: 260px;
+  height: 27px;
+  mix-blend-mode: soft-light;
+}
+
+.host .add-location-icon {
+  position: absolute;
+  height: 74.07%;
+  width: 5.35%;
+  top: 7.41%;
+  right: 94.65%;
+  bottom: 18.52%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.host .loc {
+  position: absolute;
+  top: 220px;
+  left: 28px;
+  width: 299px;
+  height: 27px;
+}
+
+.host .clock-icon {
+  position: absolute;
+  height: 81.87%;
+  width: 10.67%;
+  top: 9.79%;
+  right: 89.33%;
+  bottom: 8.33%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.host .sunday {
+  position: absolute;
+  top: 0px;
+  left: 41.65px;
+  line-height: 150%;
+}
+
+.host .time {
+  position: absolute;
+  height: 5.25%;
+  width: 49.54%;
+  top: 38.51%;
+  right: 44.17%;
+  bottom: 56.24%;
+  left: 6.29%;
+}
+
+.host .event-input {
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #9095a0;
+  box-sizing: border-box;
+  width: 303px;
+  height: 28px;
+  mix-blend-mode: soft-light;
+}
+
+.host .event1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 150%;
+}
+
+.host .event {
+  position: absolute;
+  top: 93px;
+  left: 24px;
+  width: 303px;
+  height: 60px;
+  color: #171a1f;
+}
+
+.host .head1 {
+  position: absolute;
+  top: 35px;
+  left: 26px;
+  font-size: 25px;
+  line-height: 150%;
+  text-align: center;
+}
+
+.host {
+  position: relative;
+  border-radius: 47px;
+  background: linear-gradient(180.06deg, #d6eaf5, rgba(255, 255, 255, 0));
+  width: 407px;
+  height: 457px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}

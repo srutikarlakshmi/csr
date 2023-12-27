@@ -1,0 +1,215 @@
+.events .btn6 {
+  position: absolute;
+  top: 14.41px;
+  left: 790px;
+  width: 90px;
+  font-size: 14px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 4px;
+  background-color: #32859a;
+  height: 38px;
+}
+.events .task6 {
+  position: absolute;
+  top: 15.5px;
+  left: 33px;
+  line-height: 150%;
+}
+.events .date6 {
+  position: absolute;
+  top: 37px;
+  left: 33px;
+  font-size: 13px;
+  line-height: 150%;
+}
+.events .event6 {
+  position: absolute;
+  top: 429.59px;
+  left: 50px;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 900px;
+  height: 67.41px;
+  font-size: 16px;
+}
+.events .btn5 {
+  position: absolute;
+  padding: 0;
+  top: 14.33px;
+  left: 790px;
+  width: 90px;
+  font-size: 14px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 4px;
+  background-color: #f7d7cf;
+  height: 38px;
+}
+.events .event5 {
+  position: absolute;
+  top: 351.67px;
+  left: 0px;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 900px;
+  left: 50px;
+  height: 67.41px;
+  font-size: 16px;
+}
+.events .btn4 {
+  position: absolute;
+  top: 14.25px;
+  left: 790px;
+  width: 90px;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #32859a;
+  height: 38px;
+  line-height: 38px;
+}
+.events .date4 {
+  position: absolute;
+  top: 37px;
+  left: 33px;
+  line-height: 150%;
+  font-size: 13px;
+}
+.events .task4 {
+  position: absolute;
+  top: 15.5px;
+  left: 33px;
+  font-size: 16px;
+  line-height: 150%;
+}
+.events .event4 {
+  position: absolute;
+  top: 273.75px;
+  left: 0px;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 900px;
+  left: 50px;
+  height: 67.41px;
+}
+.events .btn3 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: var(--dark-orange);
+  position: absolute;
+  top: 15.17px;
+  left: 790px;
+  width: 90px;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 4px;
+  height: 38px;
+}
+.events .event3 {
+  position: absolute;
+  top: 195.83px;
+  left: 0px;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 900px;
+  height: 67.41px;
+  left: 50px;
+}
+.events .btn2 {
+  position: absolute;
+  top: 15.08px;
+  left: 790px;
+  width: 90px;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #f7d7cf;
+  height: 38px;
+  line-height: 38px;
+}
+.events .event2 {
+  position: absolute;
+  top: 117.92px;
+  left: 0px;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 900px;
+  height: 67.41px;
+  left: 50px;
+}
+.events .btn1 {
+  position: absolute;
+  top: 15px;
+  left: 790px;
+  width: 90px;
+  border-radius: 4px;
+  font-size: 14px;
+  text-align: center;
+  background-color: var(--dark-orange);
+  height: 38px;
+  line-height: 38px;
+}
+.events .event1 {
+  position: absolute;
+  width: 900px;
+  right: 0px;
+  bottom: 389.59px;
+  left: 0px;
+  left: 50px;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  height: 67.41px;
+}
+.events .head1 {
+  position: absolute;
+  top: 0px;
+  font-size: 20px;
+  display: inline-block;
+  color: #384d6c;
+  width: 156px;
+  left: 50px;
+  height: 33px;
+}
+
+.events .btn1:hover,
+.events .btn2:hover,
+.events .btn3:hover,
+.events .btn4:hover,
+.events .btn5:hover,
+.events .btn6:hover {
+  background-color: white;
+  border: 0.5px solid;
+  color: black;
+  cursor: pointer;
+}
+
+.events {
+  position: relative;
+  width: 100%;
+  height: 497px;
+  text-align: left;
+  font-size: 13px;
+  top: 60px;
+  overflow-x: none;
+}
+

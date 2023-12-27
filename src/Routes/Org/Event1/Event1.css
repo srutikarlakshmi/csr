@@ -1,0 +1,296 @@
+.event1 .seeall {
+  position: absolute;
+  top: 10px;
+  left: 35px;
+  font-size: 16px;
+  line-height: 150%;
+  color: #fff;
+  text-align: center;
+}
+.event1 .see {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: #f3816d;
+  position: absolute;
+  top: 78px;
+  left: 1238px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  width: 120px;
+  height: 43px;
+}
+.event1 .rect4 {
+  position: absolute;
+  top: 567px;
+  left: 758px;
+  border-radius: 15px;
+  background-color: #e5f5ff;
+  width: 257.88px;
+  height: 294.56px;
+}
+.event1 .text {
+  margin: 0;
+}
+.event1 .para4 {
+  position: absolute;
+  top: 707px;
+  left: 1033px;
+  font-size: 16px;
+  line-height: 150%;
+  display: inline-block;
+  width: 391px;
+  height: 82px;
+}
+.event1 .h4 {
+  position: absolute;
+  top: 613px;
+  left: 1033px;
+  line-height: 150%;
+  display: inline-block;
+  width: 403px;
+  height: 82px;
+}
+.event1 .icon {
+  position: absolute;
+  top: 576.13px;
+  left: 766.6px;
+  border-radius: 15px;
+  width: 240.69px;
+  height: 285.43px;
+  object-fit: cover;
+}
+.event1 .apply {
+  position: absolute;
+  top: calc(50% - 10.02px);
+  left: 25px;
+  font-size: 13px;
+  line-height: 150%;
+  font-family: Inter;
+  color: #171a1f;
+  text-align: center;
+}
+.event1 .apply4 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: #f9e5e0;
+  position: absolute;
+  top: 801px;
+  left: 1033px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  width: 79.28px;
+  height: 27.4px;
+}
+.event1 .rect3 {
+  position: absolute;
+  top: 576.44px;
+  left: 81px;
+  border-radius: 15px;
+  background-color: #e5f5ff;
+  width: 257.88px;
+  height: 294.56px;
+}
+.event1 .para3 {
+  position: absolute;
+  top: 707px;
+  left: 359px;
+  font-size: 16px;
+  line-height: 150%;
+  display: inline-block;
+  width: 369px;
+  height: 82px;
+}
+.event1 .h3 {
+  position: absolute;
+  top: 613px;
+  left: 359px;
+  line-height: 150%;
+  display: inline-block;
+  width: 395px;
+  height: 94px;
+}
+.event1 .icon1 {
+  position: absolute;
+  top: 585.57px;
+  left: 90.55px;
+  border-radius: 15px;
+  width: 240.69px;
+  height: 285.43px;
+  object-fit: cover;
+}
+.event1 .apply1 {
+  position: absolute;
+  top: calc(50% - 10.17px);
+  left: 25px;
+  font-size: 13px;
+  line-height: 150%;
+  font-family: Inter;
+  color: #171a1f;
+  text-align: center;
+}
+.event1 .apply3 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: #f9e5e0;
+  position: absolute;
+  top: 801px;
+  left: 359px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  width: 79.28px;
+  height: 27.4px;
+}
+.event1 .rect2 {
+  position: absolute;
+  top: 219px;
+  left: 754px;
+  border-radius: 15px;
+  background-color: #e5f5ff;
+  width: 257.88px;
+  height: 294.56px;
+}
+.event1 .para2 {
+  position: absolute;
+  top: 381px;
+  left: 1033px;
+  font-size: 16px;
+  line-height: 150%;
+  display: inline-block;
+  width: 324.74px;
+  height: 54.8px;
+}
+.event1 .h2 {
+  position: absolute;
+  top: 282px;
+  left: 1033px;
+  line-height: 150%;
+  display: inline-block;
+  width: 355px;
+  height: 86px;
+}
+.event1 .icon2 {
+  position: absolute;
+  top: 228.13px;
+  left: 762.6px;
+  border-radius: 15px;
+  width: 240.69px;
+  height: 285.43px;
+  object-fit: cover;
+}
+.event1 .apply5 {
+  position: absolute;
+  top: calc(50% - 9.6px);
+  left: 25px;
+  font-size: 13px;
+  line-height: 150%;
+  font-family: Inter;
+  color: #171a1f;
+  text-align: center;
+}
+.event1 .apply2 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: #f9e5e0;
+  position: absolute;
+  top: 460px;
+  left: 1033px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  width: 79.28px;
+  height: 27.4px;
+}
+.event1 .apply6 {
+  position: absolute;
+  top: calc(50% - 9.69px);
+  left: 25px;
+  font-size: 13px;
+  line-height: 150%;
+  font-family: Inter;
+  color: #171a1f;
+  text-align: center;
+}
+.event1 .apply11 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: #f9e5e0;
+  position: absolute;
+  top: 460px;
+  left: 359px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+  width: 79.28px;
+  height: 27.4px;
+}
+.event1 .rect1 {
+  position: absolute;
+  top: 219.09px;
+  left: 83.87px;
+  border-radius: 15px;
+  background-color: #e5f5ff;
+  width: 257.88px;
+  height: 294.56px;
+}
+.event1 .para1 {
+  position: absolute;
+  top: 381px;
+  left: 359px;
+  font-size: 16px;
+  line-height: 150%;
+  display: inline-block;
+  width: 336px;
+  height: 55px;
+}
+.event1 .h1 {
+  position: absolute;
+  top: 282px;
+  left: 359px;
+  line-height: 150%;
+  display: inline-block;
+  width: 368px;
+  height: 75px;
+}
+.event1 .icon3 {
+  position: absolute;
+  top: 228.22px;
+  left: 90.55px;
+  border-radius: 15px;
+  width: 240.69px;
+  height: 285.43px;
+  object-fit: cover;
+}
+.event1 .sub-head {
+  position: absolute;
+  top: 107px;
+  left: 91px;
+  line-height: 150%;
+  display: inline-block;
+  color: #0f0705;
+  width: 676px;
+  height: 87px;
+}
+.event1 .head {
+  position: absolute;
+  top: 25px;
+  left: 92px;
+  font-size: 49px;
+  line-height: 150%;
+  display: inline-block;
+  color: #0f0705;
+  width: 789px;
+  height: 169px;
+}
+.event1 {
+  position: relative;
+  width: 100%;
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 25px;
+  margin-top: 90px;
+}
+

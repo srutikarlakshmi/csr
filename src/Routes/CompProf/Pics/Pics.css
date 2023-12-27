@@ -1,0 +1,56 @@
+.pics .icon {
+  position: absolute;
+  top: 473px;
+  left: 245px;
+  border-radius: 10px;
+  width: 363px;
+  height: 381px;
+  object-fit: contain;
+  
+  }
+  .pics .icon1 {
+  position: absolute;
+  top: 663px;
+  left: -1px;
+  border-radius: 10px;
+  width: 326px;
+  height: 251px;
+  object-fit: cover;
+  }
+  .icon2 {
+  position: absolute;
+  top: 266px;
+  left: -1px;
+  border-radius: 10px;
+  width: 326px;
+  height: 383px;
+  object-fit: cover;
+  }
+  .pics .icon3 {
+  position: absolute;
+  top: 70px;
+  left: 190px;
+  border-radius: 10px;
+  width: 470px;
+  height: 380px;
+  object-fit: contain;
+  }
+  .pics .icon4 {
+  position: absolute;
+  top: 21px;
+  left: 0px;
+  border-radius: 10px;
+  width: 326px;
+  height: 231px;
+  object-fit: cover;
+  }
+  .pics {
+  position: absolute;
+  top: 69px;
+  left: 968px;
+  width: 800px;
+  height: 914px;
+  overflow-x: hidden;
+  right: 0;
+  
+  }
