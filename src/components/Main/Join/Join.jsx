@@ -1,12 +1,10 @@
-
 import React, { useState } from "react";
 import "./Join.css";
 import SignUp from "../../SignIn/SignUp/SignUp";
 import { img13 } from "../../../assets";
+import { Link as RouterLink } from "react-router-dom";
 
 const Join = () => {
- 
-
   return (
     <div className="join">
       <img className="image-icon" alt="" src={img13} />
@@ -15,11 +13,9 @@ const Join = () => {
         Discover CSR initiatives and collaborate with like-minded business
       </div>
 
-      <div className="button">
-        <div className="sign-up1">Sign Up</div>
-      </div>
-
-
+      <RouterLink to="/register">
+        <button className="button">Sign Up</button>
+      </RouterLink>
     </div>
   );
 };

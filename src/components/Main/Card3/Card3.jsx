@@ -1,6 +1,7 @@
 import React from "react";
 import "./Card3.css";
-import {img4} from '../../../assets'
+import { img4 } from "../../../assets";
+import { Link as RouterLink } from "react-router-dom";
 
 const Card3 = () => {
   return (
@@ -8,9 +9,7 @@ const Card3 = () => {
       <img className="image-icon" alt="" src={img4} />
       <b class="head1">Collaborate</b>
       <b className="head2">
-        <p className="head2-head ">
-          Unlock the Power of Collective Imapact.
-        </p>
+        <p className="head2-head ">Unlock the Power of Collective Imapact.</p>
       </b>
       <div className="para1">
         Partnering with other businesses and organizations for CSR activities
@@ -29,9 +28,10 @@ const Card3 = () => {
         Showcase your CSR initiatives to a larger audience, attracting potential
         partners and supporters.
       </div>
-      <button className="button">
-        Learn More
-      </button>
+
+      <RouterLink to="/register">
+        <button className="button">Learn More</button>
+      </RouterLink>
     </div>
   );
 };

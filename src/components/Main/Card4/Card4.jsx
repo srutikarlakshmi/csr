@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./Card4.css";
 import SignUp from "../../SignIn/SignUp/SignUp";
+import { Link as RouterLink } from 'react-router-dom';
 
 const Card4 = () => {
 
@@ -33,9 +34,11 @@ const Card4 = () => {
       </div>
       <b className="step1">Step One</b>
 
-      <button className="button" id="button">
-        <div className="get-started">Get Started</div>
+      
+        <RouterLink to="/register">
+      <button className="button" id="button">Get Started
       </button>
+      </RouterLink>
 
 
       <b className="b">4</b>

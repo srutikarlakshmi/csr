@@ -37,8 +37,10 @@ const SignUp = () => {
       <div className="sign">
         <div className="cirlce1"></div>
         <div className="sub-head">Sign Up</div>
+        <Link to="/">
+      
         <div className="head">Elevate Ethics</div>
-
+        </Link>
         <div className="email">Email</div>
         <input
           className="mail"

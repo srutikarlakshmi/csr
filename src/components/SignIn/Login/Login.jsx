@@ -38,7 +38,10 @@ const Login = () => {
       <form>
         <div className="cirlce1-parent">
           <div className="cirlce1"></div>
-          <div className="head">Elevate Ethics</div>
+          <Link to="/">
+      
+        <div className="head">Elevate Ethics</div>
+        </Link>
           <div className="sub-head">Login</div>
 
           <div className="email">Email</div>
@@ -82,7 +85,7 @@ const Login = () => {
               onClick={loginFunc}
               id="login-btn"
             >
-              <b className="login-comp">Login Comp</b>
+              <b className="login-comp">Login to Company</b>
             </button>
           </div>
           <div className="org-login">
@@ -93,7 +96,7 @@ const Login = () => {
               onClick={loginFunc1}
               id="login-btn"
             >
-              <b className="login-comp">Login Org</b>
+              <b className="login-comp">Login to Org</b>
             </button>
           </div>
 
