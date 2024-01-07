@@ -1,35 +1,45 @@
 import React from "react";
 import "./Host.css";
+import { icon1, icon2, icon3 } from "../../../assets";
+
 
 const Host = () => {
   return (
-    <div class="host">
-    <button class="host1">
-    </button>
-    <div class="desc">
-      <div class="desc-input">
-      </div>
-      <img class="sort-icon" alt="" src="sort.png" />
+    <div className="body">
+    <div className="main">
+      <h2 className="head">HOST YOUR EVENT WITH US</h2>
+      <form onsubmit="showAlert(event)">
+        <p className="event">
+          <label>
+            EVENT NAME:
+            <input type="text" className="input1" />
+          </label>
+        </p>
+        <p>
+          <div className="clock">
+            <img className="icon1" alt="" src= {icon1} />
+            <input type="date" id="date" className="date" />
+          </div>
+        </p>
 
-    </div>
-    <div class="loc">
-      <div class="loc-input">
-      </div>
-      <img class="add-location-icon" alt="" src="add_location.png" />
+        <div className="clock">
+          <img className="icon2" alt="" src={icon2} />
+          <input type="text" className="input2" />
+        </div>
 
-    </div>
-    <div class="time">
-      <img class="clock-icon" alt="" src="clock.png" />
+        <div className="clock">
+          <img className="icon3" alt="" src={icon3} />
+          <input type="text" className="input3" />
+        </div>
 
-      <div class="sunday">Sunday, December 3</div>
+        <p>
+          <button type="submit" className="host1">
+            Host Event
+          </button>
+        </p>
+      </form>
     </div>
-    <div class="event">
-      <div class="event-input">
-      </div>
-      <div class="event1">Event Name: </div>
     </div>
-    <b class="head1">HOST YOUR EVENT WITH US</b>
-  </div>
   );
 };
 
