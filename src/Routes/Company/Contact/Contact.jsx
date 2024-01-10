@@ -1,4 +1,3 @@
-
 import React, {useState, useEffect} from "react";
 import "./Contact.css";
 import { msg, call, loc } from "../../../assets";
@@ -24,8 +23,8 @@ const Contact = () => {
     // }
     console.log("hello")
     const res= await database.createDocument("658fb4872811d10690cc","658fb50b21159a9e22ba",ID.unique(),{
-      body:message,
-      username:name,email
+      desc:name,email,
+      username:message
     })
     setName("") 
     setEmail("")

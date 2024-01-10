@@ -12,24 +12,28 @@ const Host = () => {
   const [date,setDate]=useState("")
   const [location,setLocation]=useState("")
   const [desc,setDesc]=useState("")
+  
+  
+  const createEvent = async (e) => {
+    e.preventDefault();
+    const res = await database.createDocument(
+      "658fb4872811d10690cc",
+      "659ae042bb91df79de32",
+      ID.unique(),
+      {
+        name,
+        date,
+        location,
+        desc,
+      }
+    );
+    setName("");
+    setDate("");
+    setLocation("");
+    setDesc("");
 
-
-
-
-
-  const createEvent= async (e) => {
-
-    console.log("hi")
-    const res= await database.createDocument("658fb4872811d10690cc","659a5498641e480aac6a",ID.unique(),{
-      name:name,
-      date,location,desc
-    })
-    setName("") 
-    setDate("")
-    setLocation("")
-    setDesc("")
-
-  }
+    
+  };
 
 
 
